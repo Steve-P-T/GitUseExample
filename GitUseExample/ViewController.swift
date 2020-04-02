@@ -13,8 +13,17 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
     }
+    
+    @IBAction func buttonClicked(_sender: UIButton){
+        print("Thi is a Git tutorial")
+        }
 
 
+    
+    
+    
+    
 }
 
