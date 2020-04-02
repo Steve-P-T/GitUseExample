@@ -8,6 +8,6 @@
 
 import UIKit
 
-class MapForItinerary: NSManagedObject {
+class MapForItinerary: NSObject {
 
 }
